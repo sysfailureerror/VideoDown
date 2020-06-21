@@ -167,6 +167,9 @@ class Print(object):
 
 
 class Icons(object):
+    """
+    uma forma para encurtar os nomes
+    """
     def __init__(self):
         self.i_icons = self.get_json()
         
