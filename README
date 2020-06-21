@@ -7,10 +7,9 @@ Simples programa para fazer download de videos pelo terminal.
 
 COMO USAR:
 Requerimentos:
-    - pip3 install requirements.txt 
-    se não funcionar tente;
-    - python3.7 -m pip install requirements.txt
     - apt install ffmpeg -y
+    - pip3 install requirements.txt (se não funcionar tente: python3.7 -m pip install requirements.txt)
+    
 Execute:
     - python3.7 menu.py
     
