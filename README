@@ -1,0 +1,29 @@
+#by SysFailureError
+#date: 06/2020
+
+thanks youtube-dl lib
+
+Simples programa para fazer download de videos pelo terminal.
+
+
+O QUE FAZ:
+    - Download dos videos YouTube, ou o somente os audios.
+
+
+INFOR:
+    - Não é possível fazer download videos que estão marcados com 
+      "somente para membros" de qualquer Canal.
+    - ...
+
+
+FUTURAS ATUALIZAÇÕES (talvez):
+    Downloads:
+        - playlist completa.
+        - a partir de url's em arquivo de texto.
+        - videos bloqueados por país.
+        - de videos de outros sites ( ͡° ͜ʖ ͡°).
+
+    Outros:
+        - adicionar o metadados do video (somente mp3 e m4p/mp4).
+        - informar os formatos disponíveis para download.
+        - informação sobre o video.
