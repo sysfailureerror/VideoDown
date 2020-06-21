@@ -11,7 +11,7 @@ Requerimentos:
     - pip3 install requirements.txt (se não funcionar tente: python3.7 -m pip install requirements.txt)
     
 Execute:
-    - python3.7 menu.py
+    - python3.7 src/menu.py
     
 
 O QUE FAZ:
