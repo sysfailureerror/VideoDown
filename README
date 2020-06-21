@@ -5,6 +5,15 @@ thanks youtube-dl lib
 
 Simples programa para fazer download de videos pelo terminal.
 
+COMO USAR:
+Requerimentos:
+    - pip3 install requirements.txt 
+    se não funcionar tente;
+    - python3.7 -m pip install requirements.txt
+    - apt install ffmpeg -y
+Execute:
+    - python3.7 menu.py
+    
 
 O QUE FAZ:
     - Download dos videos YouTube, ou os audios.
