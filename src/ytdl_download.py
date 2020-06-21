@@ -23,11 +23,6 @@ class Download(object):
     def init_ytdl(self):
         self.ytdl_obj = youtube_dl.YoutubeDL(self.ytdl_opts)
         return True
-    
-    def getinfo(self):
-        with youtube_dl.YoutubeDL(self.ytdl_opts) as ydl:
-            ydl.download([self.url])
-        return True
 
     def start(self):
         self.ytdl_obj.download([self.url])
