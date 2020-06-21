@@ -169,7 +169,9 @@ class Print(object):
 class Icons(object):
     def __init__(self):
         self.i_icons = self.get_json()
-
+        
+        #humnn, vergonhoso
+                  
         self.md_ico = self.i_icons["media"][0]
         self.md_ad0 = self.i_icons["media"][1]["audio"][0]
         self.md_ad1 = self.i_icons["media"][1]["audio"][1]
