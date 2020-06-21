@@ -21,13 +21,13 @@ O QUE FAZ:
 INFOR:
     - Não é possível fazer download videos que estão marcados com 
       "somente para membros" de qualquer Canal do YouTube.
-    - Além do primeiro video de uma playlist, evite colocar outros de outras posições
+    - Além do primeiro video de uma playlist, evite colocar outros de outras posições.
     - ...
 
 
 FUTURAS ATUALIZAÇÕES (talvez):
     Downloads:
-        - playlist completa. (já é possivel, se for primeiro video de uma playlist)(Falta melhorar)
+        - playlist completa. (já é possivel, se for o primeiro video de uma playlist)(Falta melhorar)
         - a partir de url's em arquivo de texto.
         - videos bloqueados por país.
         - de videos de outros sites ( ͡° ͜ʖ ͡°).
