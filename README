@@ -3,7 +3,8 @@
 
 thanks youtube-dl lib (https://github.com/ytdl-org/youtube-dl)
 
-Simples programa para fazer download de videos pelo terminal.
+- Simples programa para fazer download de videos pelo terminal.
+- Funciona no Termux.
 
 COMO USAR:
 Requerimentos:
