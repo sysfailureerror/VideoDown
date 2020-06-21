@@ -32,8 +32,8 @@ class YTvideo(object):
 
 
 class FileYTVideo(YTvideo):
-    def __init__(self, logger, **kwargs):
-        super().__init__(**kwargs)
+    def __init__(self, logger):
+        super().__init__()
         self.geturltxt = False
         self.add_metad = None
         self.logger = logger
