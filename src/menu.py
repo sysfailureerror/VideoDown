@@ -1,7 +1,7 @@
 #by SysFailureError
 #date: 06/2020
 
-import sys, os
+import os
 from inforfile import ext_file
 from ytdl_download import YtLogger
 from ytdl_download import Download
