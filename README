@@ -1,7 +1,7 @@
 #by SysFailureError
 #date: 06/2020
 
-thanks youtube-dl lib
+thanks youtube-dl lib (https://github.com/ytdl-org/youtube-dl)
 
 Simples programa para fazer download de videos pelo terminal.
 
