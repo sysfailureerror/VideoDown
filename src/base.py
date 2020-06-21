@@ -4,7 +4,6 @@
 import os, sys
 import json
 import copy
-import functools
 from _decorators import *
 from inforfile import ext_file
 
